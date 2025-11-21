@@ -3,4 +3,8 @@
 >git config --global user.name "username"
 >git condig --global user.email "useremail"
 >git init [intializing git in present working directory]
-hit status[list all untracked files]
+>git status[list all untracked files]
+>git add -A [command for adding all untracked files to staging area]
+>git commit -m "commit messsage" [adding staged files to local repostory]
+>git log [command for listing commit history]
+>git status [list all untracked files]
