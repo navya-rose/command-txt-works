@@ -1,0 +1,6 @@
+>git --version [commenand for checking git version ]
+>git config --list[git configuration list]
+>git config --global user.name "username"
+>git condig --global user.email "useremail"
+>git init [intializing git in present working directory]
+hit status[list all untracked files]
