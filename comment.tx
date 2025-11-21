@@ -8,3 +8,6 @@
 >git commit -m "commit messsage" [adding staged files to local repostory]
 >git log [command for listing commit history]
 >git status [list all untracked files]
+>git remote add name remote_path
+>git remote -v [list all remote]
+>git branch [list all branches]
